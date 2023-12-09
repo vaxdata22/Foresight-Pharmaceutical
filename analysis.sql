@@ -4,7 +4,7 @@
 ++++++++++++ NOV. 2023         ++++++++++++++++++++++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-The following are the PL/pgSQL queries that were used to carry out data analysis
+The following are the T-SQL queries that were used to carry out data analysis
 on the Foresight Pharmaceutical Company dataset:
 
 --  total ammount of sales per distributor 
