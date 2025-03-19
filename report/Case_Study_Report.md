@@ -73,7 +73,7 @@ The following are important insights revealed by my analysis on the dataset:
 
  |  |  |
  |:-----------:|:------------:|
- |![total number of sales per product class](../charts/total-no-of-sales-per-product-class.png)|![total amount of sales per product class](../charts/total-amount-of-sales-per-product-class.png-product-class.png)
+ |![total number of sales per product class](../charts/total-no-of-sales-per-product-class.png)|![total amount of sales per product class](../charts/total-amount-of-sales-per-product-class.png)
 
 <br>
 2.	The total amount of sales per manager: it is observed that Britany Bold is the highest-performing manager. Alisha Coldwell is also performing reasonably in terms of revenue.
@@ -108,7 +108,7 @@ The following are important insights revealed by my analysis on the dataset:
 
 <br>
 
-**For details of the SQL queries, [click here](code/analysis.sql) to see the “analysis.sql” file.**
+**For details of the SQL queries, [click here](../code/analysis.sql) to see the “analysis.sql” file.**
 
 
 ## DATA ACTION (RECOMMENDATIONS FROM THE INSIGHTS)
