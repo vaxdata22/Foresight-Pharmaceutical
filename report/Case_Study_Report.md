@@ -42,13 +42,13 @@ The following is a description of the dataset:
 |Manager|Sales rep's Manager Name|
 |Sales Team|Sale rep's team|
 
-The dataset was provided as an excel spreadsheet (XLSX) of eighteen fields/columns and 254,082 records/rows.
+The dataset was provided as an Excel spreadsheet (XLSX) of eighteen fields/columns and 254,082 records/rows.
 
 <br>
 
 ## DATA PROCESSING (CLEANING OF THE DATASET)
 
-Data filtering was done using Google sheets. The following information was discovered during the filtering process: 
+Data filtering was done using Google Sheets. The following information was discovered during the filtering process: 
 
 1)	There are 29 distributors for this company 
 2)	There are two countries, Germany & Poland 
@@ -73,7 +73,7 @@ The following are important insights revealed by my analysis on the dataset:
 
  |  |  |
  |:-----------:|:------------:|
- |![total number of sales per product class](charts/total-no-of-sales-per-product-class.png)|![total amount of sales per product class](charts/total-amountt-of-sales-per-product-class.png-product-class.png)
+ |![total number of sales per product class](charts/total-no-of-sales-per-product-class.png)|![total amount of sales per product class](charts/total-amount-of-sales-per-product-class.png-product-class.png)
 
 <br>
 2.	The total amount of sales per manager: it is observed that Britany Bold is the highest-performing manager. Alisha Coldwell is also performing reasonably in terms of revenue.
@@ -88,7 +88,7 @@ The following are important insights revealed by my analysis on the dataset:
 <br>
 4.	The total amount of sales per sales team: the delta team has the highest. Charlie’s team is also doing well in terms of amount of sales.
 
-![total amount of sales per sales team](charts/tota-amt-of-sale-per-sales-team.png)
+![total amount of sales per sales team](charts/total-amt-of-sales-per-sales-team.png)
 
 <br>
 5.	The total amount of sales per year: the year 2018 has the highest total sales in four years period, with sales gradually decreasing. Up until 2020, the company needs to put more effort into marketing and sales. 
@@ -98,7 +98,7 @@ The following are important insights revealed by my analysis on the dataset:
 <br>
 6.	The number of sales per sub-channel: retail and Government have the highest number of sales. 
 
-![total number of sales per sub channel](charts/total-no-of-sale-per-sub-channel.png)
+![total number of sales per sub channel](charts/total-no-of-sales-per-sub-channel.png)
  
 <br>
 7.	The total number of sales per distributor: the top four distributors are Gerlach LLC, Koss, Erdman, and Stehr-Champlin. However, the amount of sales per distributor shows that instead of Stehr-Champlin, it is actually Kozey-Emmerich that comes in the fourth place.
