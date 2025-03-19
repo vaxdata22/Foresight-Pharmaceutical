@@ -2,7 +2,7 @@
 
 Foresight Pharmaceuticals is one of the leading Pharmaceutical Manufacturing companies with a global presence.
 Their Markets are divided into different regions across the world. One of those regions manages the German and Poland Markets.
-But the company does not sell directly to customers. Instead, they work with a couple of Distributors in all their regions.
+However the company does not sell directly to customers. Instead, they work with a couple of Distributors in all their regions.
 They have an agreement with each of the distributors to share their Sales Data with them. This is to enable them to gain insights up to the retail level.
 
 <br>
@@ -73,49 +73,49 @@ The following are important insights revealed by my analysis on the dataset:
 
  |  |  |
  |:-----------:|:------------:|
- |![total number of sales per product class](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/total%20no%20of%20sales%20per%20product%20class.png)|![total amount of sales per product class](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/total%20amountt%20of%20sales%20per%20product%20class.png%20product%20class.png)|
+ |![total number of sales per product class](charts/total-no-of-sales-per-product-class.png)|![total amount of sales per product class](charts/total-amountt-of-sales-per-product-class.png-product-class.png)
 
 <br>
 2.	The total amount of sales per manager: it is observed that Britany Bold is the highest-performing manager. Alisha Coldwell is also performing reasonably in terms of revenue.
 
-![total amount of sales per manager](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/total%20amt%20of%20sales%20per%20manager.png)
+![total amount of sales per manager](charts/total-amt-of-sales-per-manager.png)
 
 <br>
 3.	The total amount of sales per channel: Pharmacies slightly ordered the product more than hospitals. 
 
-![total amount of sales per channel](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/total%20amt%20of%20sales%20per%20channel.png)
+![total amount of sales per channel](charts/total-amt-of-sales-per-channel.png)
 
 <br>
 4.	The total amount of sales per sales team: the delta team has the highest. Charlie’s team is also doing well in terms of amount of sales.
 
-![total amount of sales per sales team](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/tota%20amt%20of%20sale%20per%20sales%20team.png)
+![total amount of sales per sales team](charts/tota-amt-of-sale-per-sales-team.png)
 
 <br>
 5.	The total amount of sales per year: the year 2018 has the highest total sales in four years period, with sales gradually decreasing. Up until 2020, the company needs to put more effort into marketing and sales. 
  
-![total amount of sales per year](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/total%20amount%20of%20sales%20per%20year.png)
+![total amount of sales per year](charts/total-amount-of-sales-per-year.png)
 
 <br>
 6.	The number of sales per sub-channel: retail and Government have the highest number of sales. 
 
-![total number of sales per sub channel](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/total%20no%20of%20sale%20per%20sub%20channel.png)
+![total number of sales per sub channel](charts/total-no-of-sale-per-sub-channel.png)
  
 <br>
 7.	The total number of sales per distributor: the top four distributors are Gerlach LLC, Koss, Erdman, and Stehr-Champlin. However, the amount of sales per distributor shows that instead of Stehr-Champlin, it is actually Kozey-Emmerich that comes in the fourth place.
 
-![number of sales per distributor](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/charts/no%20of%20sales%20per%20distributor.png)
+![number of sales per distributor](charts/no-of-sales-per-distributor.png)
 
 
 <br>
 
-**For details of the SQL queries, [click here](https://github.com/vaxdata22/Foresight-Pharmaceutical/blob/main/analysis.sql) to see the “analysis.sql” file.**
+**For details of the SQL queries, [click here](code/analysis.sql) to see the “analysis.sql” file.**
 
 
 ## DATA ACTION (RECOMMENDATIONS FROM THE INSIGHTS)
 
 The following are my best business recommendations based on the insights revealed by the Foresight Pharmaceutical Company data:
 
-1)	Foresight pharmaceutical should focus more on the production and marketing of Analgesics, Antiseptics, and mood stabilizers so as to maximize revenue. 
+1)	Foresight Pharmaceutical should focus more on the production and marketing of Analgesics, Antiseptics, and mood stabilizers in order to maximize revenue. 
 2)	Since overall sales are dropping in recent years, the company needs to do more in terms of marketing strategy to revive sales.
 3)	The company needs to focus more on working with top-performing distributors such as Gerlach LLC, Koss, Erdman, and Kozey Emmerich as well as improve business relations with the other low-performing distributors 
 4)	The company might need to reward the top-performing managers/sales team, as well as encourage the low-performing managers/sales team to do more.
