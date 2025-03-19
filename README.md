@@ -1,4 +1,4 @@
-# Foresight-Pharmaceutical
+# Foresight Pharmaceutical
 
 This is a Data Analysis case study done on the Foresight Pharmaceutical Company dataset.
 
